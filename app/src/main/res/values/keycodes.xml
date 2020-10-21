@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <integer name="key_back">-1</integer>
+    <integer name="key_forward">-2</integer>
+    <integer name="key_delete">-3</integer>
+    <integer name="key_backspace">-4</integer>
+    <integer name="key_x">120</integer>
+    <integer name="key_options">-5</integer>
+    <integer name="key_symbols">-6</integer>
+    <integer name="key_change_keyboards">-7</integer>
+    <integer name="key_dakutenn">12441</integer>
+    <integer name="key_hanndakutenn">12442</integer>
+</resources>
